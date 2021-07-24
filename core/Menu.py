@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # encoding: UTF-8
 
-
+__author__   = 'nivas'
+__version__  = '2.0.4'
+__year__     = '2020021'
 
 from argparse import RawTextHelpFormatter
 import argparse, os
