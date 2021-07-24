@@ -15,6 +15,7 @@ Download/Installation
 ====
 * git clone
 * pip3 install -r requirements.txt --user
+* chmod +x ipgeolocation.py
 
 if pip3 is missing:
 * apt-get install python3-setuptools
@@ -61,8 +62,7 @@ usage: ipgeolocation.py [-h] [-m] [-t TARGET] [-T file] [-u User-Agent]
 
 IPGeolocation 2.0.4
 
---[ Retrieve IP Geolocation information from ip-api.com
---[ Copyright (c) 2015-2016 maldevel (@maldevel)
+--[ Retrieve IP Geolocation information 
 --[ ip-api.com service will automatically ban any IP addresses doing over 150 requests per minute.
 
 optional arguments:
