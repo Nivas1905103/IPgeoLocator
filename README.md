@@ -13,7 +13,7 @@ Requirements
 
 Download/Installation
 ====
-* git clone
+* git clone https://github.com/Nivas1905103/IPgeoLocator.git
 * pip3 install -r requirements.txt --user
 * chmod +x ipgeolocation.py
 
